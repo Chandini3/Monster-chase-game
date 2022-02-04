@@ -1,8 +1,10 @@
-# Monster-chase-game
-This is a pixelated game created using unity 2D that allows the user to jump over the monsters getting spawned from left and right direction. 
+# Monster Chase
+The main aim of this project is to create a game using pixelated assets obtained using the code written using Machine Leanring and Cycle GANs.  
 
 # Technology
-Unity 2D, ML, Cycle GANs
+Unity 2D <br />
+Machine Learning <br />
+Cycle GANs
 
 # Language
 C#
@@ -11,10 +13,11 @@ C#
 This code trains on a normal image dataset and a pixel dataset using cycle GANs and converts the given assets to their pixelated forms.
 
 ## Datasets
-Train: 
-Label A: 
-Epochs : 10
-Lambda : 2e-4
+Train: <br />
+Label A: https://www.kaggle.com/sarthak4u/aimages<br />
+Label B: https://www.kaggle.com/chandinirongali/pixeldataset<br />
+Epochs : 10 <br />
+Lambda : 2e-4 <br />
 Batch  size : 10
 
 ## Outputs
@@ -30,5 +33,6 @@ Batch  size : 10
 
 
 # GAME
-This game uses the pixelated images from above as the assets. 
+This game uses the pixelated images from above as the assets. <br />
+This is a game project built in Unity 2D. The game consists of a character whose task is to avoid the monsters.The game allows the user to jump over the enemies being spawned from left and right direction using the space bar and and walk in left and right directions using the D and A key respectively. The player will be able to select a different character, restart the game or just go back to the main page to start a fresh game.
 
