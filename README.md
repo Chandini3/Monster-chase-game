@@ -18,7 +18,7 @@ Lambda : 2e-4
 Batch  size : 10
 
 ## Outputs
-https://github.com/Chandini3/Monster-chase-game/commit/5bed7a7f6e9568eab141466b2bcb58b55862575b#commitcomment-65993136
+
 ![background image pixel](https://user-images.githubusercontent.com/84968542/152483357-d6099717-af4c-4c99-a2b1-560df280dca2.jpeg)
 ![characters pixel](https://user-images.githubusercontent.com/84968542/152483414-d17accfa-f41c-451a-82c5-21eff6ae719f.jpg)
 ![ground pixel](https://user-images.githubusercontent.com/84968542/152483429-5faafba5-7632-4692-926b-0e09d44620b1.jpeg)
