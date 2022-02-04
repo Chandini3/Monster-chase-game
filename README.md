@@ -26,13 +26,7 @@ https://github.com/Chandini3/Monster-chase-game/commit/5bed7a7f6e9568eab141466b2
 ![restart pixel](https://user-images.githubusercontent.com/84968542/152483496-f28f22b4-da23-4352-a99d-8800f01e7557.jpeg)
 ![moon pixel](https://user-images.githubusercontent.com/84968542/152483516-2a905438-6c36-4a4c-869a-374e4cab6129.jpg)
 ![select char pixel](https://user-images.githubusercontent.com/84968542/152483542-6a66bbb2-84b0-4ebd-97bd-3d4601d94a45.jpg)
-
-
-
-
-
-
-
+![monsters pixel](https://user-images.githubusercontent.com/84968542/152483624-cd144bfe-fa5b-42a0-84a3-b04dcc7282e7.jpeg)
 
 
 # GAME
